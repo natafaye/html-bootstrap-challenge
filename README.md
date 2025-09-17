@@ -7,7 +7,7 @@ Create a static website using HTML & Bootstrap that matches the 4 screenshots as
 There are two pages in the website, the Home page and the Contact Us page. 
 
 Each page should match the corresponding screenshot at the given sizes:  
-XS (less than 576px) 
+XS (less than 576px)  
 XL (greater than 1200px)
 
 Between those sizes you can choose how to layout the pages - whatever looks nice to you. The "Dimensions: Responsive" option in the Device Toolbar in the browser's Developer Tools is a convenient way to check particular pixel widths.

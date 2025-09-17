@@ -1,4 +1,4 @@
-# Project 1
+# HTML & Bootstrap Job-Ready Challenge
 
 ### Description
 
